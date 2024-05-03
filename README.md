@@ -2,6 +2,8 @@
 
 ## Replace next-120 with next-121 and it breaks
 
+## Archived as it only served bug fixing.
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Creating a project
